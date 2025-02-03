@@ -1,6 +1,6 @@
 # Basic Static Website with Docker and Nginx 🚀
 
-This project provides a ***simple static website** deployed using **Docker and Nginx**. The website consists of a single **HTML file with embedded CSS**, served by an Nginx container.
+This project provides a **simple static website** deployed using **Docker and Nginx**. The website consists of a single **HTML file with embedded CSS**, served by an Nginx container.
 
 ## 📦 Features
 - **Lightweight and fast:** Uses Nginx to efficiently serve static files.
