@@ -26,7 +26,8 @@ Run the following command to build and start the containers:
 
 ```sh
 cd docker-website-nginx-html-basic
-docker-compose up -d --build
+docker build -t docker-website-nginx-html-basic .
+docker run -d -p 8080:80 docker-website-nginx-html-basic
 ```
 
 ### 🌍 Testing the Application
